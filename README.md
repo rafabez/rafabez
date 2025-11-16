@@ -34,11 +34,8 @@ class SymbioticDev:
 
 <div align="center">
 
-#### 💻 Languages & Frameworks
+#### 💻 Languages
 <img src="https://skillicons.dev/icons?i=python,js,html,css" />
-
-#### 🔒 Security & Tools
-<img src="https://skillicons.dev/icons?i=kali,linux" /> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" /> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" />
 
 #### 🖥️ Operating Systems
 <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows" />
