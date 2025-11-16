@@ -12,7 +12,7 @@ Brazilian-born, Greece-based **cybersecurity explorer** and **data evaluator** e
 
 My journey started in the **90s** with web development and audio technology, shaping a mindset that bridges **code, hardware, networks, and creativity**. Today, I focus on **cybersecurity, AI safety, automation**, and building tools that respect privacy and digital resilience.
 
-**MBA in Digital Business** | Fluent in 🇬🇧 🇧🇷 🇪🇸 🇮🇹 🇩🇪
+Fluent in 🇬🇧 🇧🇷 🇪🇸 🇮🇹 🇩🇪
 
 > *"Technology should empower, not exploit."*
 
