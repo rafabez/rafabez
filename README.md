@@ -8,7 +8,7 @@
 
 ### 🔐 About Me
 
-Brazilian-born, Greece-based **cybersecurity explorer** and **data evaluator** exploring the intersection of automation, LLMs, and open systems. Active in hacker and FOSS communities since **2011**.
+Brazilian-born, Greece-based *cybersecurity explorer* and **data evaluator** exploring the intersection of automation, LLMs, and open systems. Active in hacker and FOSS communities since **2011**.
 
 My journey started in the **90s** with web development and audio technology, shaping a mindset that bridges **code, hardware, networks, and creativity**. Today, I focus on **cybersecurity, AI safety, automation**, and building tools that respect privacy and digital resilience.
 
